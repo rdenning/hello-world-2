@@ -1,0 +1,132 @@
+Offr Portland - DRAFT
+GOAL
+Offr is a tool that quickly and easily creates direct connections for people in a specific locality by providing a communication channel with enhanced options - it cuts out the middle-man and profit enhancing algorithms. The core value of Offr is to create reliable connections.
+Offr is an App with the high level goal of being a one-stop-shop to directly connect a user with a person, service, task provider or event in their local area. Offr also provides a marketplace to advertise services, manage and grow business connections, start local community activities and to network by organizing joint activities with individuals or groups.
+Ultimately Offr will recommend local services, events and activities to users based on user-profile and past activity.
+Brands
+Offr Meet - Networking
+Offr Serivces - Single task or session
+Offr Events - Publicity, payment and ticketing
+Offr Work - Long term hiring
+
+
+Offr Starters
+If an Offr Starter is an individual who would like to arrange a joint activity, advertise a service or publicize an event. The Offr Starter can create an Offr using a template and entering specific details.
+Offr Makers
+Offr Makers are individuals who use the App and search for activities, services or events that interest them. They are connected with the Offr Starter to arrange an activity, purchase a service, sign up for an event and negotiate the price.
+Offr Meets
+An Offr Meet is when two or more users agree and get together. If a service is provided, a price can be negotiated through the communication channel. Offr promotes reliable participation and Offr Starters and Offr Makers can view past activity of others to ensure consistent connections.
+
+SUGGESTED PROJECT BREAKDOWN
+
+
+We suggest breaking up development of  functionality into three distinct phases with specific functional  areas and deliverables. The scope, actions and timelines listed below are just suggestions for discussion.
+
+Phase I: January 1st - March 31st 2020 (suggested)
+
+Scope:
+Create profile / edit user profile
+Search profiles
+Offer negotiation - communication platform
+Offr Expiration
+Manual curation
+Social log-in
+UX for easily managing multiple offers
+Payment per listing for services
+
+Actions:
+Break functionality into different phases
+Set realistic timeline
+Define scope for all phases
+Document requirements - phase I:
+One to one Offr
+One to many Offr
+Services
+Implement Trello or other Kanban solution
+Identify tech stack
+Define markets for all phases
+Create user stories for phase I
+UX
+Wireframes
+Design
+Define fields for templates:
+Account profile
+Social
+Single service
+Define requirements for back-end engineering
+Create templates
+Reach out to target markets
+
+Suggested Markets:
+Offr Meet - Neworking Activities: Yoga, Rock climbing, Tennis, Etc…
+Offr Services: Chauffeur professional / Limo, Personal Trainer, Hair Stylist, Tutor, Therapist, Life coach, Photographer, Baby siting, Diaper pick-up, Writer, Model, Dog Walker, Dog Washer, Car Detail, Mobile Ding Repair, Seamstress, Handyman, Computer Assistant for elderly, Massage Therapist, Farmer’s CPA food club, Stripper/Dancer, Housekeeper, Energy Healing, Laundry service, Gardener.
+
+Success Criteria:
+Launch version 1.0 of Offr app to App Store and Google play with outlined functionality by 3/31/2020. Include message of what’s to come in next phase.
+
+
+Phase II: April 1st - June 30th  2020 (suggested)
+
+Scope:
+Payment / escrow
+Credits
+Mediation
+Collateral
+Reviews / ratings
+Events
+Calendar: Time-based services
+Implement advertising
+
+Actions:
+Define requirements / create user stories for phase II
+Enhanced UX
+Wireframes and design for new areas
+Define fields for new templates:
+Payments and credits
+Events
+Reviews / ratings
+Calendar
+Advertising
+Create templates
+Reach out to new target markets
+
+Suggested Markets:
+Expand previous markets
+Event promoters
+Local advertisers
+
+Success Criteria:
+User base of XX (TBD). Launch version 1.5 of Offr app to App Store and Google play with outlined functionality including advertising by  6/30/2020. Offr activity of ??. Revenue of $AA.
+
+
+Phase III: July 1st - September 30th 2020 (suggested)
+
+Proposed Scope - will depend on activity and feedback:
+Review using tags
+Service tagging / faceted search
+Rideshare - would we be competing with Uber / Lyft - compliance and regulations?
+Individual template design
+Connection suggestions
+Self rating / Offr rating - matching
+QR codes for events
+Offr Kids
+
+Actions:
+Define requirements / create user stories for phase III
+Enhanced UX
+Wireframes and design for new areas
+Define fields for new templates:
+Rideshare
+Kids
+Custom templates
+Rating
+Create templates
+Reach out to new target markets
+
+Suggested Markets:
+Expand previous markets
+Rideshare
+Kids
+
+Success Criteria:
+User base of YY (TBD). Launch full 2.0 version of Offr app to App Store and Google play with outlined functionality including advertising by 9/30/2020. Offr activity of ??. Revenue of $BB.
